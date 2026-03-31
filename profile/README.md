@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=220&section=header&text=PiNC%20Analytics&fontSize=60&fontAlignY=38&desc=Empowering%20dreams,%20delivering%20excellence&descAlignY=60&descSize=20&animation=fadeIn" alt="Pinc Analytics Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=220&section=header&text=PiNC%20Analytics&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Empowering%20dreams,%20delivering%20excellence&descAlignY=60&descSize=20&animation=fadeIn" alt="Pinc Analytics Banner" width="100%" />
 
   <h1>🚀 Welcome to PiNC Analytics</h1>
   <p><em>The engineering and analytics division of <strong>Pinc Technology Sdn Bhd</strong></em></p>
